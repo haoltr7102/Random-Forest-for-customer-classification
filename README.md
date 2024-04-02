@@ -1,1 +1,1 @@
-# Random-Forest-for-customer-classification
+# Random Forest for customer classification
